@@ -86,8 +86,4 @@ If you wanna check it out or run the analysis yourself:
 3. Run the Jupyter notebook or script in your environment  
 4. Explore the visualizations and play around with the data!
 
----
-
-## 🧾 License
-
-MIT License — feel free to use, modify, and share.
+--##https://www.kaggle.com/datasets/teajay/the-fight-against-malaria
